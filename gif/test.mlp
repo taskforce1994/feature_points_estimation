@@ -1,0 +1,60 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="51_pointcloud2.ply" visible="1" filename="../point_cloud/51_pointcloud2.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointSize="3" boxColor="234 234 234 255" pointColor="131 149 69 255" solidColor="192 192 192 255" wireColor="64 64 64 255">000110010000000000000100000001000000001010100000000100111010110000011101</RenderingOption>
+  </MLMesh>
+  <MLMesh label="21_pointcloud2.ply" visible="1" filename="../point_cloud/21_pointcloud2.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointSize="3" boxColor="234 234 234 255" pointColor="131 149 69 255" solidColor="192 192 192 255" wireColor="64 64 64 255">000110010000000000000100000001000000001010100000000100111010110000011101</RenderingOption>
+  </MLMesh>
+  <MLMesh label="71_pointcloud2.ply" visible="1" filename="../point_cloud/71_pointcloud2.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointSize="3" boxColor="234 234 234 255" pointColor="131 149 69 255" solidColor="192 192 192 255" wireColor="64 64 64 255">000110010000000000000100000001000000001010100000000100111010110000011101</RenderingOption>
+  </MLMesh>
+  <MLMesh label="26_pointcloud2.ply" visible="0" filename="../point_cloud/26_pointcloud2.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointSize="4" boxColor="234 234 234 255" pointColor="131 149 69 255" solidColor="192 192 192 255" wireColor="64 64 64 255">000110010000000000000100000001000000001010100000000100111010110000011101</RenderingOption>
+  </MLMesh>
+  <MLMesh label="31_pointcloud2.ply" visible="0" filename="../point_cloud/31_pointcloud2.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointSize="3" boxColor="234 234 234 255" pointColor="131 149 69 255" solidColor="192 192 192 255" wireColor="64 64 64 255">000110010000000000000100000001000000001010100000000100111010110000011101</RenderingOption>
+  </MLMesh>
+  <MLMesh label="76_pointcloud2.ply" visible="0" filename="../point_cloud/76_pointcloud2.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointSize="3" boxColor="234 234 234 255" pointColor="131 149 69 255" solidColor="192 192 192 255" wireColor="64 64 64 255">000110010000000000000000000000000000000010100000000100111010110000011101</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>

@@ -1,0 +1,42 @@
+﻿  main.cpp
+C:\Program Files (x86)\Intel RealSense SDK 2.0\include\librealsense2\h\rs_option.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files (x86)\Intel RealSense SDK 2.0\include\librealsense2\rsutil.h(222,24): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\sub_module.h(28,21): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\sub_module.h(51,12): warning C4305: '초기화 중': 'long'에서 'float'(으)로 잘립니다.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(229,35): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(266,42): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(266,42): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(280,36): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(315,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(318,60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(468,82): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(467,87): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(502,9): warning C4129: 'E': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(502,9): warning C4129: ' ': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(252,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(253,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(257,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(299,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\10.stereo_vision\20211028_3D_feature_points_estimation\main.cpp(227,7): warning C4101: 'frame_name' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  1 of 924 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Phase_Unwrapping.vcxproj -> G:\10.stereo_vision\20211028_3D_feature_points_estimation\x64\Release\Phase_Unwrapping.exe

@@ -1,0 +1,2 @@
+G:\10.stereo_vision\20211030_3D_feature_points_estimation\x64\Release\feature_points_estimation.exe
+C:\git\feature_points_estimation\x64\Release\feature_points_estimation.exe
