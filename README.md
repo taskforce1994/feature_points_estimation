@@ -10,5 +10,5 @@
    
     Video
     ----------
-![22](https://user-images.githubusercontent.com/93419240/139621407-fd62404c-cc9e-41be-919f-53cfe7893bf9.gif)
+https://user-images.githubusercontent.com/93419240/139621975-149dfe68-b708-4bb2-8c2c-3c632ea222ce.mp4
 
