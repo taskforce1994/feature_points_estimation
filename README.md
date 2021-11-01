@@ -14,7 +14,10 @@ The program acquires three-dimensional feature points through a single module ca
    
     Video
     ----------
-    This sample video shows the project in action. After showing the input frame, the baseline value is shown. Output the number of feature points obtained using SIFT and match the feature points. Disparity is calculated through the matched feature points and the depth value is estimated. Plot the matched feature points and input frame at once, and finally output the accumulated 3D feature points as a ply file.
+    This sample video shows the project in action. After showing the input frame, the baseline value is shown.
+    Output the number of feature points obtained using SIFT and match the feature points.
+    Disparity is calculated through the matched feature points and the depth value is estimated.
+    Plot the matched feature points and input frame at once, and finally output the accumulated 3D feature points as a ply file.
 ![test_gif2](https://user-images.githubusercontent.com/93419240/139624119-f2cea1b1-288f-4ea7-91b0-5ab08f389e1c.gif)
 
 
