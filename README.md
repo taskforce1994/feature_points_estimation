@@ -10,5 +10,6 @@
    
     Video
     ----------
-https://user-images.githubusercontent.com/93419240/139621975-149dfe68-b708-4bb2-8c2c-3c632ea222ce.mp4
+![test_gif2](https://user-images.githubusercontent.com/93419240/139624119-f2cea1b1-288f-4ea7-91b0-5ab08f389e1c.gif)
+
 
